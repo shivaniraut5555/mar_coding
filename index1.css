@@ -1,0 +1,30 @@
+#head-iamge{
+    width:100%;
+    height:100px;
+    position: relative;
+    right:-100px;
+    opacity: 100;
+}
+#wraper{
+    width:1300px;
+    margin:0 auto;
+    height:500px;
+}
+#body{
+    background-image: url(head1.jpg);
+    width:1157px;
+    height:120px;
+    position: relative;
+    top:-20px;
+}
+#shape{
+    width:200px;
+    height:200px;
+    background-color:red;
+    display:block;
+   
+}
+.bold{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
